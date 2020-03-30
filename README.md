@@ -21,9 +21,9 @@ ReactDOM.render(<App />, document.getElementById("root"));
 --------------------------------------------------------------------------------------------------
 ## 2) Crie uma pasta denominada redux e, dentro dela, crie duas pastas denominadas:
  redux <br/>
-   &nbsp;∟ reducers<br/>
-   &nbsp;∟ store<br/>
-   &nbsp;∟ provider.<br/>
+   &nbsp;&nbsp;∟reducers<br/>
+   &nbsp;&nbsp;∟store<br/>
+   &nbsp;&nbsp;∟provider.<br/>
 
 
 
