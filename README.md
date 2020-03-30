@@ -10,15 +10,19 @@ Usando:
 
 ## 1) Crie um arquivo index, com o seguinte conteúdo:
 
+```javascript
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "../redux";
 
 ReactDOM.render(<App />, document.getElementById("root"));
+```
 
 --------------------------------------------------------------------------------------------------
 ## 2) Crie uma pasta denominada redux e, dentro dela, crie duas pastas denominadas:
-reducers, store e provider.
+- reducers
+- store
+- provider.
 
 
 
